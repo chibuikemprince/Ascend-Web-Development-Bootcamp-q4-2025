@@ -18,7 +18,7 @@ Here’s a simple diagram that shows how our HTML page works (like a house 🏡)
 
 ### On a Laptop/PC
 
-1. Open **Notepad** (Windows) or **TextEdit** (Ma![alt text](4.png)c) or any text editor (VS Code, Sublime, etc.).
+1. Open **Notepad** (Windows) or **TextEdit** or any text editor (VS Code, Sublime, etc.).
 2. Copy the code into the editor.
 3. Save the file as `index.html`
 

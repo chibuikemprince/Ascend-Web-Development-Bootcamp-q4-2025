@@ -11,6 +11,16 @@ Click any day below to jump right in 👇
 👉 [Join our Telegram Community](https://t.me/AscendTribe)
 
 
+## 🎥 Video Sessions  
+
+👉 Watch our **YouTube Live Bootcamp Series**:  
+- [Day 1 Live Session](https://www.youtube.com/live/y-DkziYCWFE)  
+- [Day 2 Live Session](https://youtube.com/live/xBkRlyypnqs)  
+- [Day 3 Live Session](https://youtube.com/live/sO8GWi6uybQ)  
+- [Day 3 Codebase](./Day3)  
+
+
+
 ## 📚 Bootcamp Outline  
 
 ### 🔹 [Day 1 – Introduction to the Internet](./day1)  
@@ -35,13 +45,7 @@ Click any day below to jump right in 👇
 
 ---
 
-## 🎥 Video Sessions  
 
-👉 Watch our **YouTube Live Bootcamp Series**:  
-- [Day 1 Live Session](https://www.youtube.com/live/y-DkziYCWFE)  
-- [Day 2 Live Session](https://youtube.com/live/xBkRlyypnqs)  
-- [Day 3 Live Session](https://youtube.com/live/sO8GWi6uybQ)  
-- [Day 3 Codebase](./Day3)  
 
 ---
 

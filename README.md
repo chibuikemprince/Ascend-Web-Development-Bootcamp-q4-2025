@@ -19,7 +19,7 @@ Click any day below to jump right in 👇
 - [Day 3 Live Session](https://youtube.com/live/sO8GWi6uybQ)  
 - [Day 3 Codebase](./Day3)  
 - [Day 4 Live Session](https://www.youtube.com/watch?v=qddRmkpY7Y8&t=25s)
-- [Day 3 Codebase](./Day4)  
+- [Day 4 Codebase](./Day4)  
 
 
 

@@ -18,33 +18,41 @@ Click any day below to jump right in 👇
 - [Day 2 Live Session](https://youtube.com/live/xBkRlyypnqs)  
 - [Day 3 Live Session](https://youtube.com/live/sO8GWi6uybQ)  
 - [Day 3 Codebase](./Day3)  
+- [Day 4 Live Session](https://www.youtube.com/watch?v=qddRmkpY7Y8&t=25s)
+- [Day 3 Codebase](./Day4)  
 
 
 
 ## 📚 Bootcamp Outline  
 
-### 🔹 [Day 1 – Introduction to the Internet](./day1)  
+### 🔹 [Day 1 – Introduction to the Internet](https://www.youtube.com/watch?v=y-DkziYCWFE&t=662s)  
 - What is the Internet & World Wide Web  
 - History of the Internet  
 - Client-Server model explained  
 
 ---
 
-### 🔹 [Day 2 – How the Web Works](./day2)  
+### 🔹 [Day 2 – How the Web Works](https://www.youtube.com/watch?v=xBkRlyypnqs)  
 - Domains, Hosting & DNS basics  
 - HTTP – how the web actually runs  
 - Putting it all together  
 
 ---
 
-### 🔹 [Day 3 – Intro to HTML](./day3)  
+### 🔹 [Day 3 – Intro to HTML](./Day3)  
 - HTML Structure (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)  
 - Elements & Attributes  
 - Build your first HTML page 🎉  
 - Includes a video walkthrough & practical code  
 
 ---
-
+### 🔹 [Day 4 – Headings, Paragraphs, Lists & Hyperlinks](./Day4)  
+- Headings (`<h1>` to `<h6>`) for structuring content  
+- Paragraphs (`<p>`) for readable text  
+- Lists (`<ul>`, `<ol>`, `<li>`) for bullets & numbering  
+- Hyperlinks (`<a>`) for connecting pages & external sites  
+- Includes a full code example with explanations  
+- Video walkthrough & hands-on practice 🚀 
 
 
 ---

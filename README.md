@@ -17,9 +17,16 @@ Click any day below to jump right in 👇
 - [Day 1 Live Session](https://www.youtube.com/live/y-DkziYCWFE)  
 - [Day 2 Live Session](https://youtube.com/live/xBkRlyypnqs)  
 - [Day 3 Live Session](https://youtube.com/live/sO8GWi6uybQ)  
-- [Day 3 Codebase](./Day3)  
+- [Day 3 Codebase](./Day3)   
+- [Day 4 Codebase](./Day4)   
 - [Day 4 Live Session](https://www.youtube.com/watch?v=qddRmkpY7Y8&t=25s)
-- [Day 4 Codebase](./Day4)  
+- [Day 5 Codebase](./Day5)
+- [Day 5 Live Session](https://www.youtube.com/watch?v=4gYzrrxTpes&t=10s)
+- [Day 6 Codebase](./Day6)  
+- [Day 6 Live Session](https://www.youtube.com/watch?v=6c8BYY25zQY&t=76s)
+- [Day 7 Codebase](./Day7) 
+- [Day 7 Live Session](https://www.youtube.com/live/TxS4ALdqLO4)
+
 
 
 
@@ -54,7 +61,26 @@ Click any day below to jump right in 👇
 - Includes a full code example with explanations  
 - Video walkthrough & hands-on practice 🚀 
 
+### 🔹 [Day 5 – Images, Audio & Multimedia](./Day5)  
+- Adding images with the `<img>` tag and understanding the `src` and `alt` attributes  
+- Embedding audio using the `<audio>` tag with controls  
+- Adding video files using the `<video>` tag  
 
+---
+
+### 🔹 [Day 6 – Tables in HTML](./Day6)  
+- Understanding table rows, columns & headers (`<table>`, `<tr>`, `<th>`, `<td>`)  
+- Adding captions with `<caption>` and when to use tables  
+- Applying readability styles using HTML attributes (`border`, `cellpadding`, `cellspacing`, `bgcolor`, `align`, `width`)
+
+---
+
+### 🔹 [Day 7 – Forms & User Input](./Day7)  
+- Introduction to HTML forms (`<form>`, `action`, `method`)  
+- Input fields (`<input type="text">`, `email`, `password`, etc.)  
+- Checkboxes & radio buttons for multiple and single selections  
+- Using labels, text areas, and form buttons (`submit`, `reset`, `button`)  
+- Introduction to basic form validation (`required`, `minlength`, `pattern`)     
 ---
 
 ## 💻 How to Use This Repo  

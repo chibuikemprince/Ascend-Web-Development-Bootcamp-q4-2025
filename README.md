@@ -26,6 +26,8 @@ Click any day below to jump right in 👇
 - [Day 6 Live Session](https://www.youtube.com/watch?v=6c8BYY25zQY&t=76s)
 - [Day 7 Codebase](./Day7) 
 - [Day 7 Live Session](https://www.youtube.com/live/TxS4ALdqLO4)
+- [Day 8 Codebase](./Day8) 
+- [Day 8 Live Session](https://www.youtube.com/watch?v=POL71MkoWj4)
 
 
 
@@ -82,6 +84,14 @@ Click any day below to jump right in 👇
 - Using labels, text areas, and form buttons (`submit`, `reset`, `button`)  
 - Introduction to basic form validation (`required`, `minlength`, `pattern`)     
 ---
+
+### 🔹 [Day 8 – Semantic HTML & Best Practices](./Day7) 
+- Understanding the purpose of Semantic HTML
+- Common semantic tags: <header>, <nav>, <section>, <article>, <footer>
+- Writing clean and well-indented code with comments
+- Accessibility basics (labels, alt text, and headings for screen readers)
+- SEO optimization through meaningful structure and meta information
+ 
 
 ## 💻 How to Use This Repo  
 

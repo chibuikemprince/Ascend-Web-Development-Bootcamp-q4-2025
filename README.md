@@ -85,9 +85,9 @@ Click any day below to jump right in 👇
 - Introduction to basic form validation (`required`, `minlength`, `pattern`)     
 ---
 
-### 🔹 [Day 8 – Semantic HTML & Best Practices](./Day7) 
+### 🔹 [Day 8 – Semantic HTML & Best Practices](./Day8) 
 - Understanding the purpose of Semantic HTML
-- Common semantic tags: <header>, <nav>, <section>, <article>, <footer>
+- Common semantic tags: `<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`
 - Writing clean and well-indented code with comments
 - Accessibility basics (labels, alt text, and headings for screen readers)
 - SEO optimization through meaningful structure and meta information
